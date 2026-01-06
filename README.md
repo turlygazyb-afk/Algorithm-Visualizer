@@ -64,3 +64,9 @@ This experience strengthened my interest in computer science and engineering by 
 - Compare time complexity visually  
 - Improve animations and performance  
 - Add user controls for speed and array size  
+## Project Structure
+## Project Structure
+- index.html – main project interface
+- style.css – visual styling
+- script.js – algorithm logic
+- README.md – project documentation
