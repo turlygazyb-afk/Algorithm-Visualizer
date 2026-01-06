@@ -65,7 +65,6 @@ This experience strengthened my interest in computer science and engineering by 
 - Improve animations and performance  
 - Add user controls for speed and array size  
 ## Project Structure
-## Project Structure
 - index.html – main project interface
 - style.css – visual styling
 - script.js – algorithm logic
